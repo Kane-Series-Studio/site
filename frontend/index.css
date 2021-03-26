@@ -225,5 +225,7 @@ main#carousel {
 
   #contact-form{
       position: absolute;
-      
+      box-shadow: 3px 3px 3px 3px black;
+      width: 400px;
+      height: 500px;
   }
