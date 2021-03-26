@@ -222,3 +222,8 @@ main#carousel {
       left: 45vw;
       padding-left: 100px;
   }
+
+  #contact-form{
+      position: absolute;
+      
+  }
